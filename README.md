@@ -1,5 +1,5 @@
-# Julio Cesar Correa Amaro
-## Hello, Devs!
+## 👋 Hello! Welcome to my Github profile.
+### I am Julio Amaro and my nickname is "AmaroJulioExe"!
 
 ### About me
 - 23y 
