@@ -7,7 +7,7 @@
 - System Develop Technician - ETEC Dr. Demetrio Azevedo Jr.
 - Computer Engineering Bachelor - UNIVESP
 
-### Developer Profile
+### Technologies & Tools
 soon!
 
 <!---
