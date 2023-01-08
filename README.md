@@ -2,7 +2,7 @@
 ### I am Julio Amaro and my nickname is "AmaroJulioExe".
 
 ### About me
-- 23y :birthday:
+- 24y :birthday:
 - Itapeva, São Paulo, Brazil 📮
 - IT Technician - Municipal Department of Education (Itapeva/SP) 💾
 - System Develop Technician - ETEC Dr. Demetrio Azevedo Jr. 📱
